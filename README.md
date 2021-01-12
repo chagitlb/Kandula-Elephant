@@ -5,5 +5,6 @@ This repository includes: (so far)
 
 *Consul cluster with 3 consul servers
 
-*Dockerized python app
+*EKS cluster
+
 
